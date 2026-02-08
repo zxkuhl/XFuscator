@@ -1,5 +1,5 @@
 XFuscator - The Best Lua Obfuscator 3V4R
-----------------------------------------
+---------------------------------------- 
 
 Disclaimer:
 Might not actually be the best one ever. 
